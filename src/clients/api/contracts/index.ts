@@ -1,0 +1,1 @@
+export { getVaultContract } from "./Vault";

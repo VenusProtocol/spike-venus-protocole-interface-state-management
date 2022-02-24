@@ -1,0 +1,20 @@
+{
+  "name": "spike-state-management",
+  "version": "1.0.0",
+  "description": "Test repo to explore a state management solution using React Query",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "react": "^17.0.2",
+    "react-query": "^3.34.16"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^17.0.39"
+  }
+}
